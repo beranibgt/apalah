@@ -1,7 +1,7 @@
 <?php
 session_start();
 clearstatcache();
-$password = '3bdf064f0888edd9b86c1351552d5a8d';
+$password = 'memek';
 /* SECURITY */
 define('script_version', '0.9.33');
 function get_user_ip() {
