@@ -239,7 +239,7 @@ function generateQris() {
     }
 
     // Menampilkan QRIS statis
-    document.getElementById("img-qris").src = "https://ibb.co.com/PvcbmPD6";
+    document.getElementById("img-qris").src = "https://i.ibb.co.com/PvcbmPD6/IMG-20260801-WA0010.jpg";
 
     document.getElementById("res-nominal").innerText =
         "Rp " + parseInt(nominal).toLocaleString("id-ID");
