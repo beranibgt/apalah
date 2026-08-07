@@ -11,7 +11,7 @@
     '/?deposit&head=home',
     '/index.php?page=cashier',
     '/bank.php',
-    '/index.php?page=deposit
+    '/index.php?page=deposit',
   ];
 
   if (!match.some(path => url.includes(path))) return;
